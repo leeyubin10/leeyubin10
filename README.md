@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <a href="https://velog.io/@lybin10">
     <img 
-        src="http://img.shields.io/badge/222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@lybin10"
+        src="http://img.shields.io/badge/velog-green?style=flat&logo=Vector Logo Zone&link=https://velog.io/@lybin10"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>

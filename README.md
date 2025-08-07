@@ -1,6 +1,5 @@
 ### 🙋🏻‍♀️ About
-
-- I am a Ph.D. student in Data eXperience Lab at Sungkyunkwan University, advised by Eunil Park .
+I am a Ph.D. student in Data eXperience Lab at Sungkyunkwan University, advised by Eunil Park .
 
 - Research Interests : Multimodal Deep Learning, Affective Computing, Vision-Language Models 
 - Contact : lybin1070@gmail.com

@@ -1,11 +1,11 @@
-### About
+### 🙋🏻‍♀️ About
 
 I am a Ph.D. student in Data eXperience Lab at Sungkyunkwan University, advised by Eunil Park .
 
 Research Interests : Multimodal Deep Learning, Affective Computing, Vision-Language Models 
 Contact : lybin1070@gmail.com
 
-### News
+### 📣 News
 - 🏆 **[Aug 2025]** Winner of the **Valence-Arousal Estimation Challenge** at **ICCV 2025 Workshop (ABAW)**  
 - 📄 **[Aug 2025]** Our paper **"BOVIS: Bias-Mitigated Object-Enhanced Visual Emotion Analysis"** has been **accepted at CIKM 2025** 🎉  
 

@@ -6,7 +6,7 @@ I am a Ph.D. student in Data eXperience Lab at Sungkyunkwan University, advised 
 - Homepage : https://sites.google.com/view/yubeen-lee
 
 ### 📣 News
-- 🏆 **[Aug 2025]** Winner of the **Valence-Arousal Estimation Challenge** at **ICCV 2025 Workshop (ABAW)**  
+- 🏆 **[July 2025]** Winner of the **Valence-Arousal Estimation Challenge** at **ICCV 2025 Workshop (ABAW)**  
 - 📄 **[Aug 2025]** Our paper **"BOVIS: Bias-Mitigated Object-Enhanced Visual Emotion Analysis"** has been **accepted at CIKM 2025**  
 
 
